@@ -36,3 +36,9 @@ input{
     border-radius: 5px;
     padding: 8px;
 }
+
+@media (max-width: 480px){
+    .wrapper{
+        width: 350px;
+    }
+}
